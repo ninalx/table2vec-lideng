@@ -6,11 +6,11 @@
 #
 #==============================================================================
 
-import pickle
+import json
 import sys
 import os
-with open (os.path.join("path", "filename"), 'rb') as f:
-    dictionary = pickle.loads(f.read())
+
+dictionary = json.load(open("filename"))
 
 def get_embedding():
     def main():
