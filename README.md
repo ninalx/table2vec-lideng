@@ -60,7 +60,7 @@ BL3  |  0.2912 | 0.3024 | 0.3028 | 0.2987| 0.2910 |
 Table2VecE* | 0.4982 | 0.5522 | 0.5598 | 0.5543| 0.5476 |
 BL1 + Table2VecE*  |**0.5581** | **0.6147** | **0.6400**  | **0.6524** | **0.6533** |
 BL2 + Table2VecE* | 0.5461 | 0.6027 | 0.6187 | 0.6217 | 0.6223 |
-BL3 + Table2VecE* | 0.5461 | 0.6027 | 0.6187 | 0.6217 | 0.6223 |
+BL3 + Table2VecE* | 0.5487 | 0.6049 | 0.6218 | 0.6249 | 0.6251 |
 
 
  2. Column population  ( the `runfile/CP/` folder contains the run files by various methods ):
