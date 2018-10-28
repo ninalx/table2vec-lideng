@@ -43,7 +43,7 @@ Table2Vec currently supports three table-related tasks:
 
  - Table retrieval
  - Row population
- - column population
+ - Column population
 
 
 ## Methods and results:
